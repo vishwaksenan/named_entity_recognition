@@ -7,4 +7,5 @@ This maybe useful for applying NLP in simple understandable text, but not in com
 
 #### Own NER model coming up using Word embedding neural network
 For making our own neural network for NER, it is essential to get required dataset.   
-Please try to contact me if you have any ideas on how to implement and download the dataset for our NER.    
+Please try to contact me if you have any ideas on how to implement and download the dataset for our NER.   
+Email me: vishwak1998@gmail.com 
